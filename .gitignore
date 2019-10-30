@@ -1,0 +1,12 @@
+/vendor/
+*.log
+LICENSE.txt
+/log/
+.idea/
+/APP/Runtime/Cache/Index/*
+/APP/Runtime/Cache/Systemlogined/*
+/APP/Runtime/Cache/Temp/*
+/APP/Conf/config.php
+/APP/Conf/system.php
+/Public/erwei/*
+/git_md.md
